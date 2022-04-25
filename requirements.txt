@@ -1,0 +1,6 @@
+Flask==1.1.2
+Flask-Cors==3.0.10
+Flask-RESTful==0.3.8
+python-dotenv==0.19.0
+pynse==0.1.5
+gunicorn===20.0.4
